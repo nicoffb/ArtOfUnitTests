@@ -1,0 +1,16 @@
+﻿/*****************************************************/
+/************ Interface Segregation Principle ********/
+/*****************************************************/
+
+The interface-segregation principle (ISP) states that no client should be forced to depend on methods it does not use.[1] 
+ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the 
+methods that are of interest to them. Such shrunken interfaces are also called role interfaces.[2] ISP is intended to keep a 
+system decoupled and thus easier to refactor, change, and redeploy. ISP is one of the five SOLID principles of object-oriented 
+design, similar to the High Cohesion Principle of GRASP.
+
+SOLUCIÓN APLICADA: 
+	Hemos creado una interface nueva para el servicio
+	Ello hace que nuestro servicio siga siendo Open-Closed y además expone un contrato acerca de lo que puede ser utilizado de 
+	dicho servicio. En el caso en que se requieran más funcionalidades (más métodos) 
+	lo que habrá que preguntarse es si incluirlos o no en la interfaz creada o crear 
+	intertfaces distintas dependiendo de los consumidores y del contrato que queramos exponer.

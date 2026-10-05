@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CyTZQvhIa2M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n.la.fuente.burson\\source\\repos\\03-SOLID\\Exercises\\BaseSolution\\Exercise2\\TheArtOfUnitTesting.Services\\TheArtOfUnitTesting.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n.la.fuente.burson\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\n.la.fuente.burson\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\n.la.fuente.burson\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\n.la.fuente.burson\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

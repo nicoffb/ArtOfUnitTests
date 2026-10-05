@@ -1,0 +1,13 @@
+﻿/*****************************************************/
+/*********** Single Responsibility Principle *********/
+/*****************************************************/
+
+The single responsibility principle states that every module or class should have responsibility over a single 
+part of the functionality provided by the software, and that responsibility should be entirely encapsulatedby 
+the class. All its services should be narrowly aligned with that responsibility. 
+
+Robert C. “A class should have only one reason to change.”
+
+SOLUCIÓN APLICADA: 
+	Aplicamos el principio moviendo la funcionalidad de obtención del filepath a la clase Helper para que el servicio solo 
+	tenga la responsabilidad de implementar la lógica de dominio de la operación.

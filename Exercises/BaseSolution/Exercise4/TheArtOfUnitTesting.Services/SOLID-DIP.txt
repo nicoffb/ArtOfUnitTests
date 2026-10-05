@@ -1,0 +1,17 @@
+﻿/*****************************************************/
+/************ Dependency Inversion Principle ********/
+/*****************************************************/
+
+A. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+B. Abstractions should not depend on details. Details should depend on abstractions.
+This design principle inverts the way some people may think about object-oriented programming, dictating that both high- and low-level objects must depend on the same abstraction.
+
+
+SOLUCIÓN APLICADA: 
+	Hemos invertido la responsabilidad del concimiento de la dependencia
+	En lugar de que la clase PingPongService sea la responsable de conocier la implementación concreta de IWinRepository 
+	ahora la recibe por constructor. 
+
+	Se ha conseguido que ahora PingPongService ya no tenga un fuerte acoplamiento con la implementación de IWinRepository
+	siendo esta una depenencia que puede ser reemplazada por cualquier implementación que se precie sin afectar a la clase de dominio.
+

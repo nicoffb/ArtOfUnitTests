@@ -1,0 +1,36 @@
+// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="PingPongWinRepository2.cs" company="">
+//   
+// </copyright>
+// <summary>
+//   The domain exercise helper.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace TheArtOfUnitTesting.Services
+{
+    using System.Configuration;
+    using System.IO;
+
+    /// <summary>
+    /// The domain exercise helper.
+    /// </summary>
+    public class PingPongWinRepository2
+    {
+        #region Public Methods and Operators
+
+        /// <summary>
+        /// The get win.
+        /// </summary>
+        /// <returns>
+        /// The <see cref="string"/>.
+        /// </returns>
+        public virtual string GetWin()
+        {
+            var filePath = ConfigurationManager.AppSettings["WinFilePath"] ?? "win.txt";
+            return File.ReadAllText(filePath);
+        }
+
+        #endregion
+    }
+}

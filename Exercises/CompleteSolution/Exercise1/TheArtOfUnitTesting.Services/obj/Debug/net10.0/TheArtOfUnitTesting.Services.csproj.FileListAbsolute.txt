@@ -1,0 +1,14 @@
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\bin\Debug\net10.0\SOLID-SRP.txt
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\bin\Debug\net10.0\TheArtOfUnitTesting.Services.deps.json
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\bin\Debug\net10.0\TheArtOfUnitTesting.Services.dll
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\bin\Debug\net10.0\TheArtOfUnitTesting.Services.pdb
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\TheArtOfUnitTesting.Services.csproj.AssemblyReference.cache
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\TheArtOfUnitTesting.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\TheArtOfUnitTesting.Services.AssemblyInfoInputs.cache
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\TheArtOfUnitTesting.Services.AssemblyInfo.cs
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\TheArtOfUnitTesting.Services.csproj.CoreCompileInputs.cache
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\TheArtOfUnitTesting.Services.dll
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\refint\TheArtOfUnitTesting.Services.dll
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\TheArtOfUnitTesting.Services.pdb
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\ref\TheArtOfUnitTesting.Services.dll
+C:\Users\n.la.fuente.burson\source\repos\03-SOLID\Exercises\CompleteSolution\Exercise1\TheArtOfUnitTesting.Services\obj\Debug\net10.0\TheArtOf.D87186EF.Up2Date
